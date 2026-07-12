@@ -54,11 +54,6 @@ A management platform for institute activities, fee tracking, and student portal
 
 A tool that generates question papers by selecting questions from a managed database based on configured criteria.
 
-### 🔹 Portfolio Module (Demo)
-**PHP · Laravel · MySQL**
-
-Placeholder module for upcoming live project integrations and production deployment links.
-
 ### 🔹 HomeSite — Personal Portfolio
 **HTML · CSS · JavaScript**
 
@@ -105,16 +100,11 @@ A responsive personal portfolio website featuring hero section, projects, skills
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaybhalgamiya19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaybhalgamiya19)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jay--bhalgamiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-bhalgamiya-2778891b0)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-HomeSite-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaybhalgamiya19/HomeSite)
+
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaybhalgamiyaatwork@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ From [Jay Bhalgamiya](https://github.com/jaybhalgamiya19)
 
 </div>
