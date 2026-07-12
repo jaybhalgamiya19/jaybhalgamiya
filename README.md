@@ -97,7 +97,7 @@ A responsive personal portfolio website featuring hero section, projects, skills
 
 ## 🔗 Connect With Me
 
-<div align="center">
+<div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaybhalgamiya19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaybhalgamiya19)
 
